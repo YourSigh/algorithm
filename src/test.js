@@ -7,3 +7,4 @@ numbers.sort((a, b) => {
 });
 
 console.log(numbers);
+
